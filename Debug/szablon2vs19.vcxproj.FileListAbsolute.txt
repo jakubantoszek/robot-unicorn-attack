@@ -1,0 +1,4 @@
+E:\Studia\Informatyka\Podstawy programowania\robot unicorn\template-project-2\Debug\szablon2vs19.exe
+E:\Studia\Informatyka\Podstawy programowania\robot unicorn\template-project-2\Debug\szablon2vs19.pdb
+G:\pobrane\Semestr I\Robot Unicorn Attack\template-project-2\Debug\szablon2vs19.exe
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\Debug\szablon2vs19.exe

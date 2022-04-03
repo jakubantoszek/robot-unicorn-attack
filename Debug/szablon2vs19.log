@@ -1,0 +1,18 @@
+﻿  main.cpp
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(174,15): warning C4101: "surf": lokalna zmienna, do której nie istnieje odwołanie
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(260,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(263,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(274,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(277,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(517,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(519,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(521,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(538,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(540,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(617,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(798,22): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(603,23): warning C4101: "star_rect": lokalna zmienna, do której nie istnieje odwołanie
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(603,11): warning C4101: "fairy_rect": lokalna zmienna, do której nie istnieje odwołanie
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(555,9): warning C4101: "delta": lokalna zmienna, do której nie istnieje odwołanie
+H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\main.cpp(742,7): warning C4101: "text": lokalna zmienna, do której nie istnieje odwołanie
+  szablon2vs19.vcxproj -> H:\Studia\Semestr 1\Robot Unicorn Attack\template-project-2\Debug\szablon2vs19.exe
